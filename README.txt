@@ -22,4 +22,6 @@
 7.) Обучение моделей с настройками по умолчанию и подбором гиперпараметров (lgbm, xgb, catboost),
 применение мета-модели.
 
-8.) Подготовка выступления и презентация проекта.
+8.) Подготовка выступления и презентация проекта:
+  - слайды презентации: https://docs.google.com/presentation/d/1r7JP4XBIplLHUNTZ15mBxcJXkhA-j1ULgCklPaB0Ruo/edit?usp=sharing
+  - примерное содержание презентации: https://docs.google.com/document/d/1FGorIrt2Z8cvxhyu6EK-3Imy-3b80rIe/edit?usp=sharing&ouid=106570167742313810743&rtpof=true&sd=true
